@@ -1,2 +1,2 @@
 # python3
-Curso Básico de Python3
+Curso Básico de Python 3
